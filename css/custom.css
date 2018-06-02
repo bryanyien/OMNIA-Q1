@@ -10,7 +10,7 @@ ul{
 	padding: 0px;
 }
 a{
-	text-decoration: none;
+	text-decoration: none !important;
 }
 p{
 	margin: 0;
@@ -58,16 +58,40 @@ p{
 .menu-logo img{
 	height: 25px;
 }
+.menu ul{
+	
+}
 .menu li{
-	float: right;
-	display: inline-block;
+	position: relative;
+	float: left;
+	/*display: inline-block;*/
+	margin-bottom: -3px;
+}
+.menu li:after{
+	content: '';
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	height: 4px;
+	width: 100%;
+	background-color: #0075ff;
+	opacity: 0;
+	transition: 0.3s;
+}
+.menu li:hover:after{
+	opacity: 1;
 }
 .menu a{
 	color: #fff;
 	font-size: 16px;
 	padding: 0 20px 0 20px;
+	transition: 0.3s;
 }
-.testing...
+.menu li:hover a{
+	color: #0075ff;
+}
+
+
 
 
 
