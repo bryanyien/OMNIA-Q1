@@ -59,6 +59,11 @@ p{
 .text-white{
 	color: #fff;
 }
+.note{
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	padding-bottom: 50px;
+}
 /*text collection end*/
 
 /*icon collection start*/
@@ -207,7 +212,7 @@ p{
 /*pre-order end*/
 
 /*part-01 start*/
-.part-01 , .part-04{
+.part-01 , .part-04 , .part-04-01{
   background-color: #272727;
   padding:40px;
 }
@@ -268,30 +273,42 @@ p{
 
 /*part-04 start*/
 
-.part-04 .content-01{
+.part-04 .content-left, .part-04 .content-right{
 	padding: 100px 0 100px;
 }
 .part-04 .pad-02{
 	width: 100%;
-	
 }
 
-
-/*.part-04 .iphone-pad{
-	position: absolute;
-	margin-left: -40px;
-}*/
-/*.part-04 .iphone-01, .part-04 .pad-02{
-	width: 100%;
-	position: absolute;
-}
-.part-04 .iphone-01{
-	z-index: 100;
-}
-.part-04 .pad-02{
-	z-index: 99;
-}
-*/
 /*part-04 end*/
+
+.part-04-01 .bg-black{
+	background-color: #191919;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
