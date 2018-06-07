@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/blue/-g-icon_support_case</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/blue/-g-icon_support_case" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7" stroke="#0075FF" cx="21" cy="21" r="19.5"></circle>
+        <rect id="Rectangle" stroke="#0075FF" x="13.5" y="6.5" width="15" height="29" rx="2"></rect>
+        <rect id="Rectangle" stroke="#0075FF" x="16.5" y="9.5" width="2" height="7" rx="1"></rect>
+        <g id="Group-Copy" transform="translate(34.000000, 20.500000) rotate(-180.000000) translate(-34.000000, -20.500000) translate(31.000000, 14.000000)" stroke="#0075FF">
+            <path d="M-1.20555321,5.34777042 C-0.162974238,6.59794801 1.75559987,7.42006352 3.9052269,7.42006352 C6.06280396,7.42006352 7.98716001,6.59187241 9.02698955,5.33456954 L-1.20555321,5.34777042 Z" id="Oval-7" transform="translate(3.909131, 6.376721) rotate(-90.000000) translate(-3.909131, -6.376721) "></path>
+            <path d="M-1.51654202,5.90623186 C-0.856197256,6.48590284 0.163384788,6.85578145 1.29223452,6.85578145 C2.42597878,6.85578145 3.44928106,6.48269897 4.10925613,5.89897409 L-1.51654202,5.90623186 Z" id="Oval-7-Copy" transform="translate(1.294711, 6.376721) rotate(-90.000000) translate(-1.294711, -6.376721) "></path>
+        </g>
+        <g id="Group-Copy-2" transform="translate(5.000000, 15.000000)" stroke="#0075FF">
+            <path d="M-1.20555321,5.34777042 C-0.162974238,6.59794801 1.75559987,7.42006352 3.9052269,7.42006352 C6.06280396,7.42006352 7.98716001,6.59187241 9.02698955,5.33456954 L-1.20555321,5.34777042 Z" id="Oval-7" transform="translate(3.909131, 6.376721) rotate(-90.000000) translate(-3.909131, -6.376721) "></path>
+            <path d="M-1.51654202,5.90623186 C-0.856197256,6.48590284 0.163384788,6.85578145 1.29223452,6.85578145 C2.42597878,6.85578145 3.44928106,6.48269897 4.10925613,5.89897409 L-1.51654202,5.90623186 Z" id="Oval-7-Copy" transform="translate(1.294711, 6.376721) rotate(-90.000000) translate(-1.294711, -6.376721) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/blue/-g-icon_width</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/blue/-g-icon_width" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7" stroke="#0075FF" cx="21" cy="21" r="19.5"></circle>
+        <path d="M9,21 L33,21" id="Line" stroke="#0075FF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"></path>
+        <path d="M9,11 L9,31" id="Line-Copy" stroke="#0075FF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4"></path>
+        <path d="M33,11 L33,31" id="Line-Copy-2" stroke="#0075FF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4"></path>
+        <path d="M10.4726378,25.6366761 C12.2870005,29.7555962 16.3843422,32.5 21,32.5 C25.6304152,32.5 29.7382461,29.738036 31.5437272,25.5993958 L10.4726378,25.6366761 Z M31.5591796,16.4361435 C29.7622322,12.2786822 25.6444236,9.5 21,9.5 C16.3753568,9.5 12.2715796,12.2550904 10.4626104,16.3861267 L31.5591796,16.4361435 Z" id="Oval-7" stroke="#0075FF"></path>
+    </g>
+</svg>

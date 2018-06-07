@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/blue/-g-icon_qc</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/blue/-g-icon_qc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)" stroke="#0075FF">
+            <circle id="Oval-7" cx="20" cy="20" r="19.5"></circle>
+            <g id="Group" transform="translate(7.000000, 8.000000)" stroke-width="1.1">
+                <polygon id="Path-2" stroke-linecap="round" stroke-linejoin="round" points="10.3736549 0 15.5065444 0 12.9131454 9.40596287 18.056875 9.40596287 9.70310752 24 11.7977608 12.955824 6.80769231 12.955824"></polygon>
+                <path d="M18.2619749,4.91363636 L17.4321478,17.9954545 L21.5508513,17.9954545 C22.3327878,17.9954545 22.9884615,17.2757154 22.9884615,16.3636364 L22.9884615,6.54545455 C22.9884615,5.63337548 22.3327878,4.91363636 21.5508513,4.91363636 L18.2619749,4.91363636 Z M6.13831664,17.9954545 L6.04373098,4.91363636 L2.07547706,4.91363636 C1.23929586,4.91363636 0.55,5.63824964 0.55,6.54545455 L0.55,16.3636364 C0.55,17.2708413 1.23929586,17.9954545 2.07547706,17.9954545 L6.13831664,17.9954545 Z" id="Rectangle-2"></path>
+                <path d="M25.2038462,8.18636364 L25.2038462,14.7227273 L25.8,14.7227273 C26.7112698,14.7227273 27.45,13.9839971 27.45,13.0727273 L27.45,9.83636364 C27.45,8.9250938 26.7112698,8.18636364 25.8,8.18636364 L25.2038462,8.18636364 Z" id="Rectangle-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
