@@ -32,12 +32,14 @@ p{
 .title{
 	font-size: 32px;
 	font-weight: 500;
+	line-height: 1.5;
 	letter-spacing: 1px;
 	padding-bottom: 30px;
 }
 .sub-title{
 	font-size: 20px;
 	font-weight: 500;
+	line-height: 1.5;
 	letter-spacing: 1px;
 	padding-bottom: 40px;
 }
@@ -212,11 +214,11 @@ p{
 /*pre-order end*/
 
 /*part-01 start*/
-.part-01 , .part-04 , .part-04-01{
+.part-01, .part-04, .part-04-01, .part-04-02, .part-05{
   background-color: #272727;
   padding:40px;
 }
-.part-01 .bg-box , .part-04 .bg-box{
+.bg-box{
   background-color: #212121;
   box-shadow: 0 5px 20px 0 #000000;
   position: relative;
@@ -246,7 +248,7 @@ p{
 }
 .part-02 iframe{
 	width: 100%;
-	height: 530px;
+	height: 550px;
 	margin: 100px 0;
 }
 /*part-02 end*/
@@ -274,28 +276,120 @@ p{
 /*part-04 start*/
 
 .part-04 .content-left, .part-04 .content-right{
-	padding: 100px 0 100px;
+	padding: 100px 0 50px;
 }
-.part-04 .pad-02{
+.part-04 .phone-01, .part-04 .phone-02{
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 20;
+	width: 100%;
+}
+.part-04 .pad-01, .part-04 .pad-02{
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 9;
+	width: 100%;
+}
+.phone-pad{
+	position: relative;
+	margin-left: -40px;
+	width: 70%;
+	padding-bottom: 50px;
+}
+.part-04 .bg-box{
+	padding-bottom: 42%;
+}
+/*part-04 end*/
+
+/*part-04-01 start*/
+.part-04-01 .bg-black, .part-04-02 .bg-black{
+	margin-top: -40px;
+	background-color: #191919;
+}
+.part-04-01 .content-left, .part-04-01 .content-right{
+	padding: 100px 0 60px;
+}
+.part-04-01 .content-left img{
+	width: 70%;
+	padding-top: 30px;
+}
+.part-04-01 .note{
+	margin-top: -30px;
+	padding-bottom: 0;
+}
+.part-04-01 .line-01{
+	margin-bottom: 20px;
+	width: 319px;
+	height: 15px;
+	background-image: radial-gradient(circle at 90% 50%, #0075ff, #52a2ff);
+}
+.part-04-01 .line-02{
+	margin-bottom: 20px;
+	width: 458px;
+	height: 15px;
+	background-color: #a0a0a0;
+}
+.part-04-01 .product{
+	border-top: 1px solid #c6c6c6;
+	border-bottom: 1px solid #4a4a4a;
+	padding:15px 0 30px;
+	margin-bottom: 50px;
+}
+.part-04-01 .product .note{
+	display: inline-block;
+	color: #9b9b9b;
+	padding-left: 15px;
+}
+.part-04-01 .product .icon{
+	width: 20px;
+	float: right;
+	margin: 0;
+}
+.part-04-01 .product img{
+	display: inline-block;
+	width: 90px;
+	float: left;
+	margin: 20px 10px;
+}
+
+.part-04-01 .product .content{
+	float: left;
+	width: 70%;
+	padding:15px 0 0 30px; 
+}
+
+/*part-04-01 end*/
+
+/*part-04-02 start*/
+.part-04-02 .phone-case{
+	width: 100%;
+	padding-top: 30px;
+}
+.part-04-02 .content{
+	padding: 100px 0 50px 0;
+}
+/*part-04-02 end*/
+
+/*part-05 start*/
+.part-05 .bg-box{
+	margin-top: -40px;
+	padding-bottom: 40%;
+}
+.part-05 .content-left, .part-05 .content-right{
+	padding: 100px 0 60px;
+}
+.part-05 .pad{
+	position: relative;
+
+}
+.part-05 .pad img{
+	position: absolute;
 	width: 100%;
 }
 
-/*part-04 end*/
-
-.part-04-01 .bg-black{
-	background-color: #191919;
-}
-
-
-
-
-
-
-
-
-
-
-
+/*part-05 end*/
 
 
 
