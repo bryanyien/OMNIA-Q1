@@ -52,10 +52,10 @@ p{
 .text-black{
 	color: #000;
 }
-.text-lgray{
+.text-light-gray{
 	color:#c6c6c6;
 }
-.text-dgray{
+.text-dark-gray{
 	color: #4a4a4a;
 }
 .text-white{
@@ -64,7 +64,6 @@ p{
 .note{
 	font-size: 14px;
 	letter-spacing: 0.5px;
-	padding-bottom: 50px;
 }
 /*text collection end*/
 
@@ -229,18 +228,6 @@ p{
 .part-01 .content{
   padding: 170px 0 0;
 }
-/*.part-01 h2{
-  font-size: 32px;
-  font-weight: 500;
-  color: #fff;
-  margin-bottom: 40px;
-}*/
-/*.part-01 h3{
-  font-size: 20px;
-  font-weight: 500;
-  color: #fff;
-  margin-bottom: 40px;
-}*/
 
 /*part-02 start*/
 .part-02{
@@ -309,15 +296,11 @@ p{
 	background-color: #191919;
 }
 .part-04-01 .content-left, .part-04-01 .content-right{
-	padding: 100px 0 60px;
+	padding-top: 100px;
 }
 .part-04-01 .content-left img{
 	width: 70%;
 	padding-top: 30px;
-}
-.part-04-01 .note{
-	margin-top: -30px;
-	padding-bottom: 0;
 }
 .part-04-01 .line-01{
 	margin-bottom: 20px;
@@ -334,24 +317,39 @@ p{
 .part-04-01 .product{
 	border-top: 1px solid #c6c6c6;
 	border-bottom: 1px solid #4a4a4a;
-	padding:15px 0 30px;
-	margin-bottom: 50px;
+	padding:20px 0;
+	margin:20px 0 60px 0;
 }
 .part-04-01 .product .note{
-	display: inline-block;
+	position: relative;
+	padding-bottom: 20px;
 	color: #9b9b9b;
-	padding-left: 15px;
+	transition: 0.4s;
 }
-.part-04-01 .product .icon{
+.part-04-01 .product span{
+	max-width: 90%;
+	display: block;
+}
+.part-04-01 .product .arrow{
+	position: absolute;
+	top: 0;
+	right: 15px;
 	width: 20px;
-	float: right;
-	margin: 0;
+	transition: 0.4s;
+	transform: rotate(0deg);
 }
-.part-04-01 .product img{
+.part-04-01 .product .arrow:hover,
+.part-04-01 .product .arrow:hover{
+	opacity: 0.5;
+}
+.button.animation .arrow{
+	transform: rotate(180deg);
+}
+.part-04-01 .product-01 img, .part-04-01 .product-02 img{
 	display: inline-block;
 	width: 90px;
 	float: left;
-	margin: 20px 10px;
+	margin: 10px 10px;
 }
 
 .part-04-01 .product .content{
@@ -378,7 +376,7 @@ p{
 	padding-bottom: 40%;
 }
 .part-05 .content-left, .part-05 .content-right{
-	padding: 100px 0 60px;
+	padding: 100px 0 20px;
 }
 .part-05 .pad{
 	position: relative;
@@ -391,8 +389,24 @@ p{
 
 /*part-05 end*/
 
-
-
+/*part-06 start*/
+.part-06 .bg-box{
+	background-color: #f2f2f2;
+	padding-bottom: 25%;
+}
+.part-06 .content-left, .part-06 .content-right{
+	padding: 100px 0 0;
+}
+.light-mode-img{
+	position: absolute;
+	left: 0;
+	top:280px;
+	width: 43%;
+}
+.light-mode-img img{
+	width: 100%;
+}
+/*part-06 end*/
 
 
 
