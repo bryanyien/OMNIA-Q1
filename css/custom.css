@@ -392,7 +392,7 @@ p{
 /*part-06 start*/
 .part-06 .bg-box{
 	background-color: #f2f2f2;
-	padding-bottom: 25%;
+	padding-bottom: 20%;
 }
 .part-06 .content-left, .part-06 .content-right{
 	padding: 100px 0 0;
@@ -405,6 +405,32 @@ p{
 }
 .light-mode-img img{
 	width: 100%;
+}
+.part-06 .list-title{
+	border-bottom: 1.3px solid #7e7e7e;
+	margin: 30px 0 10px;
+}
+.part-06 .list-title h4{
+	font-size: 14px;
+    font-weight: normal;
+    color: #7e7e7e;
+}
+.part-06 span{
+	font-size: 14px;
+    font-weight: 500;
+    padding-left: 15px;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #4a4a4a;
+}
+.light-list .panel{
+	padding: 10px 0 15px;
+	background-color:rgba(0,0,0,0);
+	-webkit-box-shadow: none;
+	border-bottom: 1px solid #bdbdbd;
+}
+.light-list .content{
+	padding-left: 62px;
 }
 /*part-06 end*/
 
